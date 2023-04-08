@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd">
+    <channel>
+        
+        <title>noticias</title>
+
+        <link>https://elpais.com/hemeroteca/2023-02-28/</link>
+
+        <description>Noticias de El País</description>
+
+
+        <item>
+            <title>Noticia Febrero de 2023</title> 
+            <link>https://elpais.com/hemeroteca/2023-02-28/</link> 
+            <description><![CDATA[ <p><img src="https://imagenes.elpais.com/resizer/yh7MOFHShlCUC3uOFJwZX-o4Ub0=/828x466/filters:focal(4606x422:4616x432)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/NS4Y2PPLKF35W4QY2SGSH23CAY.jpg"></p><p><strong>Pogba regresa para salvar a la Juventus de la ruina
+            DIEGO TORRES|28 FEB 2023 - 23:46 CET
+            El club italiano fuerza el debut del francés, lesionado desde agosto, para intentar clasificarse para la Champions y evitar el colapso financiero</p> ]]>
+            </description> 
+            <category>Deporte</category>
+            <!--<pubDate>28 FEB 2023 23:46:00 CET</pubDate> -->
+            <date>2023-02-28</date>
+            <language>es-ES</language>          
+        </item>
+        <item>
+            <title>Noticia de Enero de 2023</title> 
+            <link>https://elpais.com/hemeroteca/2023-01-22/</link> 
+            <description><![CDATA[ <p><img src="https://imagenes.elpais.com/resizer/L17jt4whOjoshMAcHEmSzwUfyI4=/828x466/cloudfront-eu-central-1.images.arcpublishing.com/prisa/Y64RY4XCCNEZVBS5JR3AI6XMCY.jpg"></p><p><strong>Vivir amenazado de muerte por defender el agua y la tierra
+            ALEJANDRO SANTOS CID|Santa María Zacatepec (Puebla)|22 ENE 2023 - 23:32 CET
+            El abogado ambientalista Juan Carlos Flores sostiene una batalla legal contra un macroproyecto energético hispanomexicano. Su compañero Samir Flores fue asesinado, intentaron matarle a él, le han encarcelado y absuelto por falta de pruebas y allanaron su casa tres veces en dos semanas</p> ]]>
+            </description> 
+            <category>Violencia</category>
+            <!-- <pubDate>22 ENE 2023 23:32:00 CET</pubDate> -->
+            <date>2023-01-22</date>
+        </item>
+        <item>
+            <title>Noticia Diciembre de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2023-02-28/</link> 
+            <description><![CDATA[ <p><img src="https://imagenes.elpais.com/resizer/dTm50fXow5RPsiA9Ue2egs6zHBU=/828x466/cloudfront-eu-central-1.images.arcpublishing.com/prisa/3UL6SNFTB5DJ3JC4775NQCQ7SY.jpg"></p><p><strong>Una travesía de 36 horas para presenciar la toma de posesión de Lula da Silva
+            LEONARDO CARRATO|31 DIC 2022 - 23:51 CET
+            Alrededor de 250 personas viajaron en caravana de Río de Janeiro a Brasilia para poder ver el regreso a la presidencia del exlíder sindical</p> ]]>
+            </description> 
+            <category>Viajes</category>
+            <!-- <pubDate>31 DIC 2022 23:51:00 CET</pubDate> -->
+            <date>2022-12-31</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Noviembre de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-11-22/</link> 
+            <description><![CDATA[ <p><img src="https://imagenes.elpais.com/resizer/hOhk-TzqvyAW8Kb8wBxMxktn4g0=/828x466/cloudfront-eu-central-1.images.arcpublishing.com/prisa/DV33VX3JFJDXRJE6NHE2QO2FOA.jpg"></p><p><strong>México en Qatar: el meme de Spiderman
+            MARION REIMERS|22 NOV 2022 - 23:57 CET
+            Una vez más, el tricolor jugó contra sus propios fantasmas y no contra Polonia, y ahora debe enfrentar una Argentina dolida y en estado de emergencia</p> ]]>
+
+            </description> 
+            <category>Deporte</category>
+            <!-- <pubDate>22 NOV 2022 23:57:00 CET</pubDate> -->
+            <date>2022-11-22</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Octubre de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-10-25/</link> 
+            <description>El peor Madrid cae ante el Leipzig
+                JOSÉ SÁMANO|25 OCT 2022 - 23:35 CEST
+                El Real, de paso por Alemania, sucumbe ante un equipo más recreativo en su primera derrota del curso y se jugará el primer puesto en la última jornada ante el Celtic
+            </description> 
+            <category>Deporte</category>
+            <!-- <pubDate>25 OCT 2022 23:35:00 CEST</pubDate>-->
+            <date>2022-10-25</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Septiembre de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-09-27/</link> 
+            <description>España, de la nada al éxito
+                JOSÉ SÁMANO|Braga|27 SEPT 2022 - 23:41 CEST
+                La Roja, tediosa durante una hora, reacciona en el último tramo con los cambios de Luis Enrique y jugará la fase final de la Liga de Naciones tras fulminar a una Portugal muy conservadora
+            </description> 
+            <category>Deporte</category>
+            <!-- <pubDate>27 SEPT 2022 23:41:00 CEST</pubDate> -->
+            <date>2022-09-27</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Agosto de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-08-31/</link> 
+            <description>2024: ¡Presidenta!
+                EL PAÍS|31 AGO 2022 23:42:00 CEST
+                Salvador Camarena habla con tres analistas sobre las posibilidades de que una mujer llegue a Palacio Nacional
+            </description> 
+            <category>Politica</category>
+            <!-- <pubDate>31 AGO 2022 23:42:00 CEST</pubDate> -->
+            <date>2022-08-31</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Julio de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-07-27/</link> 
+            <description>EE UU ofrece a Rusia un intercambio de prisioneros para recuperar a la baloncestista Brittney Griner
+                LUIS PABLO BEAUREGARD|Los Ángeles|27 JUL 2022 - 23:45 CEST
+                El secretario de Estado, Antony Blinken, ha dado a conocer la propuesta, que también incluye al exmarine Paul Whelan
+            </description> 
+            <category>Cultura</category>
+            <!-- <pubDate>27 JUL 2022 23:45:00 CEST</pubDate> -->
+            <date>2022-07-27</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Junio de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-06-22/</link> 
+            <description>Biden se reunirá con Sánchez y con el Rey en su viaje a Madrid para la cumbre de la OTAN
+                MIGUEL JIMÉNEZ|Washington|22 JUN 2022 - 23:31 CEST
+                El presidente de Estados Unidos mantendrá el encuentro bilateral con el líder del Ejecutivo español el próximo martes a primera hora de la tarde
+            </description> 
+            <category>Politica</category>
+            <!-- <pubDate>22 JUN 2022 23:31:00 CEST</pubDate> -->
+            <date>2022-06-22</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Mayo de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-05-22/</link> 
+            <description>Yi Wei crea esperanza (y II)
+                LEONTXO GARCÍA|Irún|22 MAY 2022 - 23:13 CEST
+                El joven chino sacrifica una pieza en la apertura a largo plazo y logra la victoria con brillantez 54 lances más tarde
+            </description> 
+            <category>Deporte</category>
+            <!-- <pubDate>22 MAY 2022 23:13:00 CEST</pubDate> -->
+            <date>2022-05-22</date>
+            <language>es-ES</language>
+        </item>
+        <item>
+            <title>Noticia Abril de 2022</title> 
+            <link>https://elpais.com/hemeroteca/2022-04-25/</link> 
+            <description>Latinoamérica vive la crisis educativa más grave de los últimos 100 años
+                CECILIA MARTÍNEZ GÓMEZ|25 ABR 2022 - 23:21 CEST
+                Hace falta una acción decidida pues el aprendizaje de toda una generación de estudiantes está en riesgo tras casi dos años de ausencia por la pandemia, según los expertos
+            </description> 
+            <category>Economia</category>
+            <!-- <pubDate>25 ABR 2022 23:21:00 CEST</pubDate> -->
+            <date>2022-04-25</date>
+            <language>es-ES</language>
+        </item>
+    </channel>
+</rss>

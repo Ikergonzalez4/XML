@@ -1,0 +1,4 @@
+1. //item[(substring(date,6,2) = '04' or substring(date,6,2) = '02' or substring(date,6,2) = '03' or substring(date,6,2) = '05'or substring(date,6,2) = '06' or substring(date,6,2) = '07' or substring(date,6,2) = '08' or substring(date,6,2) = '09' or substring(date,6,2) = '10' or substring(date,6,2) = '11')]/title
+2. //item[category = 'Deporte' and substring(date, 1, 4) = '2023']/date/text()
+3. //item[category = //item[not(date < //item/date)]/category]/title
+4. //item[description[contains(.,'<img')]]/title | //item[description[contains(.,'<img')]]/link
